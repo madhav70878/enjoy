@@ -1,3 +1,3 @@
 ro# enjoy
 maze karo
-ni krne
+tu bhi maze kr
